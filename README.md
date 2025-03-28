@@ -7,4 +7,7 @@
 
 ======================================================================
 
-https://github.com/StyleWebCode/Responsive_Nav_Bar_Dark_Light/blob/55e196a4087e939263693478ac58df92a28306df/Screen%20shot%20image/1.png
+<img src="https://github.com/StyleWebCode/Responsive_Nav_Bar_Dark_Light/blob/55e196a4087e939263693478ac58df92a28306df/Screen%20shot%20image/1.png" height="400px">
+<img src="https://github.com/StyleWebCode/Responsive_Nav_Bar_Dark_Light/blob/b568a1044a4b82b7cf4addaedb1ca85ad6bc0ebf/Screen%20shot%20image/2.png" height="400px">
+
+
